@@ -4,7 +4,11 @@
 #
 # Created by http://CryptoLions.io  
 #
-# Git Hub: https://github.com/CryptoLions/EOS-Testnet-monitor
+# GitHub: https://github.com/CryptoLions/EOS-Testnet-monitor
+# 
+# Updated by: https://superone.io
+#
+# GitHub: https://github.com/superoneio/EOS-Testnet-monitor
 #
 ###############################################################################  */
 
@@ -26,7 +30,7 @@ module.exports = {
 
 	TELEGRAM_API: {
 		enabled: true,
-		telegram_ID: "12345678:AF3e3asf-FSOFHRFIHF",  //telegrem bot ID
+		telegram_ID: "581671941:AAGONGccId6jsGrHNjkDBKVKEH7HzgjhU5Y",  //telegrem bot ID
 		tryToCheckBeforeSend: 3,  // How many error loops before send
 		intervalBetweenMsg: 900,  //900sec = 15minutes
 
