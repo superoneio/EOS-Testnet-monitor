@@ -4,7 +4,11 @@
 #
 # Created by http://CryptoLions.io  
 #
-# Git Hub: https://github.com/CryptoLions/EOS-Testnet-monitor
+# GitHub: https://github.com/CryptoLions/EOS-Testnet-monitor
+#
+# Updated by: https://superone.io
+#
+# GitHub: https://github.com/superoneio/EOS-Testnet-monitor
 #
 ###############################################################################  */
 
